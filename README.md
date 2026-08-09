@@ -2,19 +2,6 @@
 
 ### 📑 ブックマークリンク集
 
-* [01. ファイルAの変更 (MD5: 9a03...4c1a)](#9a03a743bc1a28a2a4b8dec7b34b1234)
-* [02. ファイルBの変更 (MD5: e2fc...8b5c)](#e2fc52345bc678a1da8b9cd012345678)
-* [03. 特定のコミット詳細へジャンプ](#commit-abc1234)
-* [1]: [url](https://sizu.me/2027happiness) "2027happiness"
+*: [2027happiness](https://sizu.me/2027happiness) "2027happiness"
 
-### 9a03a743bc1a28a2a4b8dec7b34b1234
 
-ここにファイルAの詳細や、MD5を紐付けたいコンテンツを記述します。 
-
-### e2fc52345bc678a1da8b9cd012345678
-
-ここにファイルBの詳細を記述します。 
-
-### commit-abc1234
-
-ここにコミットに関連する情報を記述します。
